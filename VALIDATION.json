@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-08",
+  "status": "DRAFT_BLOCKED",
+  "checks": [
+    {
+      "file": "index.html",
+      "html_parser": "PASS",
+      "local_links": "PASS",
+      "scripts": 0,
+      "draft_warning": "PASS",
+      "viewport": "PASS"
+    },
+    {
+      "file": "privacy.html",
+      "html_parser": "PASS",
+      "local_links": "PASS",
+      "scripts": 0,
+      "draft_warning": "PASS",
+      "viewport": "PASS"
+    }
+  ],
+  "responsive_css": "PASS",
+  "dark_mode_css": "PASS",
+  "external_scripts_fonts_assets": 0,
+  "secret_scan": "PASS heuristic",
+  "live_https": "NOT TESTED — Pages not enabled",
+  "mobile_render": "NOT TESTED",
+  "current_build_correspondence": "BLOCKED — current source missing",
+  "app_source_modified": false,
+  "other_repositories_modified": false
+}
